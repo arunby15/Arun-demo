@@ -1,2 +1,2 @@
 # Arun-demo
-this is sample repository
+this is sample repository.
